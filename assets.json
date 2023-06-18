@@ -1,0 +1,332 @@
+{
+  "client-az": {
+    "js": [
+      "/assets/vendor.160d2d4e.js",
+      "/assets/client-az.a4275748.js"
+    ]
+  },
+  "globe-az": {
+    "js": [
+      "/assets/three.0152c2f1.js",
+      "/assets/globe-az.a8f5ecf8.js"
+    ]
+  },
+  "popup-az": {
+    "js": "/assets/popup-az.2e9595d5.js"
+  },
+  "client-be": {
+    "js": [
+      "/assets/vendor.160d2d4e.js",
+      "/assets/client-be.7119d1a3.js"
+    ]
+  },
+  "globe-be": {
+    "js": [
+      "/assets/three.3a4323c4.js",
+      "/assets/globe-be.5802d34e.js"
+    ]
+  },
+  "popup-be": {
+    "js": "/assets/popup-be.2c98bdf3.js"
+  },
+  "client-ca": {
+    "js": [
+      "/assets/vendor.160d2d4e.js",
+      "/assets/client-ca.ef1e5e62.js"
+    ]
+  },
+  "globe-ca": {
+    "js": [
+      "/assets/three.a7e4bafb.js",
+      "/assets/globe-ca.642bae55.js"
+    ]
+  },
+  "popup-ca": {
+    "js": "/assets/popup-ca.03caff0c.js"
+  },
+  "client-da": {
+    "js": [
+      "/assets/vendor.160d2d4e.js",
+      "/assets/client-da.2b2ab7e1.js"
+    ]
+  },
+  "globe-da": {
+    "js": [
+      "/assets/three.ec694ab2.js",
+      "/assets/globe-da.34ec995e.js"
+    ]
+  },
+  "popup-da": {
+    "js": "/assets/popup-da.07869e91.js"
+  },
+  "client-de": {
+    "js": [
+      "/assets/vendor.160d2d4e.js",
+      "/assets/client-de.4a282378.js"
+    ]
+  },
+  "globe-de": {
+    "js": [
+      "/assets/three.34552532.js",
+      "/assets/globe-de.a882c7c0.js"
+    ]
+  },
+  "popup-de": {
+    "js": "/assets/popup-de.7f7a6c42.js"
+  },
+  "client-dz": {
+    "js": [
+      "/assets/vendor.160d2d4e.js",
+      "/assets/client-dz.194aca50.js"
+    ]
+  },
+  "globe-dz": {
+    "js": [
+      "/assets/three.09595b5c.js",
+      "/assets/globe-dz.18460629.js"
+    ]
+  },
+  "popup-dz": {
+    "js": "/assets/popup-dz.526702c5.js"
+  },
+  "client-eo": {
+    "js": [
+      "/assets/vendor.160d2d4e.js",
+      "/assets/client-eo.4578b81d.js"
+    ]
+  },
+  "globe-eo": {
+    "js": [
+      "/assets/three.9e6a7c3b.js",
+      "/assets/globe-eo.635bd6fe.js"
+    ]
+  },
+  "popup-eo": {
+    "js": "/assets/popup-eo.6c1f50e2.js"
+  },
+  "client-es": {
+    "js": [
+      "/assets/vendor.160d2d4e.js",
+      "/assets/client-es.599b8622.js"
+    ]
+  },
+  "globe-es": {
+    "js": [
+      "/assets/three.20f8dc2b.js",
+      "/assets/globe-es.fa9d55d2.js"
+    ]
+  },
+  "popup-es": {
+    "js": "/assets/popup-es.ed963870.js"
+  },
+  "client-fr": {
+    "js": [
+      "/assets/vendor.160d2d4e.js",
+      "/assets/client-fr.c7d70054.js"
+    ]
+  },
+  "globe-fr": {
+    "js": [
+      "/assets/three.a69fe2e2.js",
+      "/assets/globe-fr.7b081947.js"
+    ]
+  },
+  "popup-fr": {
+    "js": "/assets/popup-fr.f7044c9b.js"
+  },
+  "client-hr": {
+    "js": [
+      "/assets/vendor.160d2d4e.js",
+      "/assets/client-hr.cefb4aeb.js"
+    ]
+  },
+  "globe-hr": {
+    "js": [
+      "/assets/three.2ac1b6c6.js",
+      "/assets/globe-hr.70180b36.js"
+    ]
+  },
+  "popup-hr": {
+    "js": "/assets/popup-hr.aae16ea6.js"
+  },
+  "client-hu": {
+    "js": [
+      "/assets/vendor.160d2d4e.js",
+      "/assets/client-hu.c60adf5f.js"
+    ]
+  },
+  "globe-hu": {
+    "js": [
+      "/assets/three.2e396343.js",
+      "/assets/globe-hu.1414b76f.js"
+    ]
+  },
+  "popup-hu": {
+    "js": "/assets/popup-hu.08d87edd.js"
+  },
+  "client-hy": {
+    "js": [
+      "/assets/vendor.160d2d4e.js",
+      "/assets/client-hy.a64898e2.js"
+    ]
+  },
+  "globe-hy": {
+    "js": [
+      "/assets/three.295ed1ce.js",
+      "/assets/globe-hy.b171f2b0.js"
+    ]
+  },
+  "popup-hy": {
+    "js": "/assets/popup-hy.029da222.js"
+  },
+  "client-it": {
+    "js": [
+      "/assets/vendor.160d2d4e.js",
+      "/assets/client-it.81a18a04.js"
+    ]
+  },
+  "globe-it": {
+    "js": [
+      "/assets/three.d935e0e0.js",
+      "/assets/globe-it.5bf2f5d0.js"
+    ]
+  },
+  "popup-it": {
+    "js": "/assets/popup-it.f86ec93c.js"
+  },
+  "client-kk": {
+    "js": [
+      "/assets/vendor.160d2d4e.js",
+      "/assets/client-kk.f7430eb5.js"
+    ]
+  },
+  "globe-kk": {
+    "js": [
+      "/assets/three.407d10cd.js",
+      "/assets/globe-kk.cee36eef.js"
+    ]
+  },
+  "popup-kk": {
+    "js": "/assets/popup-kk.b4903567.js"
+  },
+  "client-os": {
+    "js": [
+      "/assets/vendor.160d2d4e.js",
+      "/assets/client-os.4bcc93ea.js"
+    ]
+  },
+  "globe-os": {
+    "js": [
+      "/assets/three.1444d04f.js",
+      "/assets/globe-os.5c5461e5.js"
+    ]
+  },
+  "popup-os": {
+    "js": "/assets/popup-os.24f4c9f5.js"
+  },
+  "client-pt": {
+    "js": [
+      "/assets/vendor.160d2d4e.js",
+      "/assets/client-pt.72e914b9.js"
+    ]
+  },
+  "globe-pt": {
+    "js": [
+      "/assets/three.df695ea0.js",
+      "/assets/globe-pt.c4037d52.js"
+    ]
+  },
+  "popup-pt": {
+    "js": "/assets/popup-pt.0eac0ec8.js"
+  },
+  "client-ro": {
+    "js": [
+      "/assets/vendor.160d2d4e.js",
+      "/assets/client-ro.a94094fc.js"
+    ]
+  },
+  "globe-ro": {
+    "js": [
+      "/assets/three.695fa61f.js",
+      "/assets/globe-ro.e8632d52.js"
+    ]
+  },
+  "popup-ro": {
+    "js": "/assets/popup-ro.11fb5c99.js"
+  },
+  "client-ru": {
+    "js": [
+      "/assets/vendor.160d2d4e.js",
+      "/assets/client-ru.e5bf5e7e.js"
+    ]
+  },
+  "globe-ru": {
+    "js": [
+      "/assets/three.46cdbdb3.js",
+      "/assets/globe-ru.502fb724.js"
+    ]
+  },
+  "popup-ru": {
+    "js": "/assets/popup-ru.32d53e00.js"
+  },
+  "client-sl": {
+    "js": [
+      "/assets/vendor.160d2d4e.js",
+      "/assets/client-sl.5dc69fb4.js"
+    ]
+  },
+  "globe-sl": {
+    "js": [
+      "/assets/three.f0ae6ed8.js",
+      "/assets/globe-sl.e388c234.js"
+    ]
+  },
+  "popup-sl": {
+    "js": "/assets/popup-sl.0da5ed0a.js"
+  },
+  "client-sr": {
+    "js": [
+      "/assets/vendor.160d2d4e.js",
+      "/assets/client-sr.f1f5de8a.js"
+    ]
+  },
+  "globe-sr": {
+    "js": [
+      "/assets/three.af7c2ba4.js",
+      "/assets/globe-sr.c12472bf.js"
+    ]
+  },
+  "popup-sr": {
+    "js": "/assets/popup-sr.1f8a59a4.js"
+  },
+  "client-tr": {
+    "js": [
+      "/assets/vendor.160d2d4e.js",
+      "/assets/client-tr.34db3763.js"
+    ]
+  },
+  "globe-tr": {
+    "js": [
+      "/assets/three.8d2d259e.js",
+      "/assets/globe-tr.f942d3ca.js"
+    ]
+  },
+  "popup-tr": {
+    "js": "/assets/popup-tr.7bc94aa8.js"
+  },
+  "client": {
+    "js": [
+      "/assets/vendor.160d2d4e.js",
+      "/assets/client.4009947a.js"
+    ]
+  },
+  "globe": {
+    "js": [
+      "/assets/three.ab8ad0c3.js",
+      "/assets/globe.7e2a9b67.js"
+    ]
+  },
+  "popup": {
+    "js": "/assets/popup.a8377cd3.js"
+  }
+}
